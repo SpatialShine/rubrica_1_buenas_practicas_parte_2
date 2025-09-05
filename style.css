@@ -24,3 +24,13 @@ h1 {
   margin: 0;
   font-size: 2rem;
 }
+
+.slider {
+  position: relative;
+  max-width: 800px;
+  margin: 2rem auto;
+  background: #fff5f5;
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
