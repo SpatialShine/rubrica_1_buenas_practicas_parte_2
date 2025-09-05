@@ -11,3 +11,16 @@ body {
   padding: 0;
   color: #3b0d0d;
 }
+
+header {
+  background-color: #d62828;
+  text-align: center;
+  padding: 1rem;
+  color: white;
+  border-bottom: 4px solid #a4161a;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2rem;
+}
